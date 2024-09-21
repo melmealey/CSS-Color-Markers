@@ -1,5 +1,7 @@
 # CSS-Color-Markers
 
-<img width ="324" alt="3 stages" src="https://github.com/user-attachments/assets/88c57c0a-ea5b-4692-954e-749795bb3528">
+Started out with just 3 solid colored rectangles. 
+<img width="565" alt="Screenshot 2024-09-21 at 4 36 39 PM" src="https://github.com/user-attachments/assets/5ae9f025-8a29-4877-8cbc-b68b5476588b">
 
-<img width="324" alt="3 markers" src="https://github.com/user-attachments/assets/951c2ce6-b9e8-4d01-90dc-7f9da3e8d59e">
+It was fun to learn the different ways to shade!
+<img width="638" alt="Screenshot 2024-09-21 at 4 36 57 PM" src="https://github.com/user-attachments/assets/66edd934-6856-417d-8c7f-753d508fe25f">
