@@ -1,6 +1,5 @@
 # CSS-Color-Markers
 
-<img width="324" alt="Screenshot" src="https://github.com/user-attachments/assets/2d67a8be-6f77-4d13-ba05-5420f5e46c77"
+<img width ="324" alt="3 stages" src="https://github.com/user-attachments/assets/88c57c0a-ea5b-4692-954e-749795bb3528">
 
-
-<img width="324" alt="Screenshot 2024-09-12 at 5 57 33 PM" src="https://github.com/user-attachments/assets/309fc989-e840-403e-843c-c25e7064d8a9"> 
+<img width="324" alt="3 markers" src="https://github.com/user-attachments/assets/951c2ce6-b9e8-4d01-90dc-7f9da3e8d59e">
